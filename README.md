@@ -4,7 +4,7 @@
 
 O **Petshop Amigo Fiel** é um sistema web desenvolvido para apresentar produtos e serviços oferecidos por um petshop.
 
-O site foi desenvolvido utilizando apenas **HTML**, conforme os requisitos da **Fase 1 do Projeto da Disciplina**.
+O site foi desenvolvido utilizando apenas **HTML**
 
 
 ## Funcionalidades
