@@ -21,7 +21,7 @@ document.getElementById('formAgendamento').addEventListener('submit', function(e
   const nomeCliente = document.getElementById('nomeCliente').value;
   const nomePet = document.getElementById('nomePet').value;
   const servico = document.getElementById('servico').value;
-  const metodo = document.getElementById('metodo').value;
+  const metodo = document.getElementById('tipoAtendimento').value;
   const data = document.getElementById('data').value;
   const hora = document.getElementById('hora').value;
   const mensagem = document.getElementById('mensagem');
