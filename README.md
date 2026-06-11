@@ -1,76 +1,25 @@
-# Petshop Amigo Fiel
+# Petshop Amigo Fiel - Fase 2
 
 ## Descrição
-
-O **Petshop Amigo Fiel** é um sistema web desenvolvido para apresentar produtos e serviços oferecidos por um petshop.
-
-O site foi desenvolvido utilizando apenas **HTML**
-
+O Petshop Amigo Fiel é um sistema web desenvolvido para apresentar produtos e serviços de um petshop, agora com layout mais atrativo utilizando CSS, Bootstrap e JavaScript.
 
 ## Funcionalidades
+- Página inicial com menu de navegação.
+- Carrossel de imagens criado com Bootstrap.
+- Produtos organizados por categorias.
+- Serviços de banho e tosa.
+- Formulário de cadastro do cliente com nome, CPF, endereço, sexo, telefone e e-mail.
+- Formulário de cadastro do pet com nome, raça, idade e opção de pet vacinado.
+- Agendamento com escolha de serviço, método de atendimento, data e horário.
+- Função JavaScript para exibir data e hora atual.
+- Função JavaScript para confirmar o agendamento na tela.
+- Acessibilidade com uso do atributo alt nas imagens.
 
-### Produtos
-
-O sistema apresenta três categorias de produtos:
-
-- Rações
-- Brinquedos
-- Acessórios
-
-Cada categoria contém dois produtos com:
-
-- Imagem
-- Descrição
-- Valor
-
-### Serviços
-
-O sistema apresenta os seguintes serviços:
-
-- Banho
-- Tosa
-- Consulta Veterinária
-
-Para cada serviço são exibidos:
-
-- Descrição
-- Valor
-- Informação sobre disponibilidade de tele-busca
-
-### Navegação
-
-O usuário pode navegar facilmente pelas seções do site através dos links disponíveis no cabeçalho:
-
-- Produtos
-- Serviços
-- Contato
-
-
-
-## Estrutura do Site
-
-O sistema foi organizado utilizando elementos semânticos do HTML:
-
-- Header (cabeçalho)
-- Section (conteúdo)
-- Footer (rodapé)
-
-
-
-## Tecnologias Utilizadas
-
+## Tecnologias utilizadas
 - HTML5
-
-
+- CSS3
+- Bootstrap
+- JavaScript
 
 ## Autoria
-
-**Desenvolvido por:** Tainá Aline Ritterbusch
-
-
-
-## Contato
-
-**E-mail:** contato@petshopamigofiel.com
-
-**Telefone:** (51) 98284-1606
+Desenvolvido por Tainá Aline Ritterbusch.
