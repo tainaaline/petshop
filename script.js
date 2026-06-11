@@ -22,7 +22,9 @@ document.getElementById('formAgendamento').addEventListener('submit', function(e
   const nomePet = document.getElementById('nomePet').value;
   const servico = document.getElementById('servico').value;
   const metodo = document.getElementById('tipoAtendimento').value;
-  const data = document.getElementById('data').value;
+  const dataOriginal = document.getElementById('data').value;
+  const partesData = dataOriginal.split("-");
+  const data = partesData[2] + "/" + partesData[1] + "/" + partesData[0];
   const hora = document.getElementById('hora').value;
   const mensagem = document.getElementById('mensagem');
 
